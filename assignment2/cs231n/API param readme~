@@ -1,0 +1,10 @@
+layerparams
+
+  conv
+    depth, size
+
+  affine
+    dim
+
+  spatial_batchnorm/batchnorm/pool
+    NONE
